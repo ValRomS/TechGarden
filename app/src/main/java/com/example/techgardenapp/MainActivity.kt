@@ -19,5 +19,6 @@ class MainActivity : AppCompatActivity() {
 
         var prueba:String
         var prueba2:String
+        var prueba3:String
     }
 }
